@@ -2,7 +2,7 @@
  Game Coin Hunter adalah game platformer 2D di mana pemain mengendalikan karakter untuk mengumpulkan bintang sambil menghindari musuh berwarna ungu yang bergerak. Karakter dapat bergerak ke kiri dan kanan serta melompat ke platform yang tersedia. Tujuan utama game ini        adalah mengumpulkan sebanyak mungkin bintang untuk meningkatkan skor.
 
 ## Kontrol:
-  ← / → : Bergerak
+  *← / → : Bergerak*
   ↑ : Melompat
   Spasi : Pause / Lanjut
   ⭐ : Kumpulkan untuk menambah skor
